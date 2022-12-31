@@ -1,3 +1,3 @@
 ---
-## Digitalclock using Tkinter
+## Digitalclock using Tkinter (Python)
 ---
