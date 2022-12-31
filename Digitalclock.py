@@ -25,3 +25,5 @@ date_label.pack()
 
 update()
 window.mainloop()
+
+#this is my class project
