@@ -15,7 +15,7 @@ def update():
 
 window = Tk()
 
-time_label = Label(window,.font=("calibri",150),fg="grey",bg="black")
+time_label = Label(window,font=("calibri",150),fg="grey",bg="black")
 time_label.pack()
 
 day_label = Label(window,font=("calibri",50,"bold"),fg="black")
